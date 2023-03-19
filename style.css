@@ -7,6 +7,8 @@ body{
     position: relative;
 width:100%;
 height:auto;
+ Background-size: cover;
+Background-repeat: no repeat ;
 }
 
 
